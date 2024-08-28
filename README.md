@@ -6,7 +6,6 @@ Instructor-led workshop for helping administrators learn how to deploy, manage, 
   * It is intended to be delivered as a 1-day workshop (instructor led – with demos, no formal hands-on activities)
   * I periodically maintain/refresh this material – please check the GitHub repository for updates
 * Additional resources are also available, including
-  * Planning a Power BI Enterprise Deployment
-  * Power BI Premium Planning and Deployment
-  * Please refer to the Power BI Whitepapers web-page: https://docs.microsoft.com/en-us/power-bi/guidance/whitepapers
-
+  * Power BI implementation planning: https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-introduction
+  * Fabric / Power BI adoption roadmap: https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap
+  * Please refer to the Power BI Whitepapers web-page for additional resources: https://docs.microsoft.com/en-us/power-bi/guidance/whitepapers
