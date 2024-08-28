@@ -8,7 +8,5 @@ Instructor-led workshop for helping administrators learn how to deploy, manage, 
 * Additional resources are also available, including
   * Planning a Power BI Enterprise Deployment
   * Power BI Premium Planning and Deployment
-  * Please refer to the Power BI Whitepapers web-page: https://docs.microsoft.com/en-us/power-bi/guidance/whitepapers 
-* There is also a comprehensive Power BI Adoption Framework that includes a series of PowerPoint decks and videos
-https://github.com/pbiaf 
+  * Please refer to the Power BI Whitepapers web-page: https://docs.microsoft.com/en-us/power-bi/guidance/whitepapers
 
